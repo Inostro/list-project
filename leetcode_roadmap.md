@@ -10,7 +10,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [ ] | 217 | Contains Duplicate | [LeetCode 217](https://leetcode.com/problems/contains-duplicate/) |
+| [X] | 217 | Contains Duplicate | [LeetCode 217](https://leetcode.com/problems/contains-duplicate/) |
 | [ ] | 242 | Valid Anagram | [LeetCode 242](https://leetcode.com/problems/valid-anagram/) |
 | [ ] | 1 | Two Sum | [LeetCode 1](https://leetcode.com/problems/two-sum/) |
 | [ ] | 49 | Group Anagrams | [LeetCode 49](https://leetcode.com/problems/group-anagrams/) |
@@ -22,7 +22,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [ ] | 125 | Valid Palindrome | [LeetCode 125](https://leetcode.com/problems/valid-palindrome/) |
+| [X] | 125 | Valid Palindrome | [LeetCode 125](https://leetcode.com/problems/valid-palindrome/) |
 | [ ] | 167 | Two Sum II — Input Array Is Sorted | [LeetCode 167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | [ ] | 15 | 3Sum | [LeetCode 15](https://leetcode.com/problems/3sum/) |
 | [ ] | 11 | Container With Most Water | [LeetCode 11](https://leetcode.com/problems/container-with-most-water/) |

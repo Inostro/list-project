@@ -34,7 +34,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [ ] | 20 | Valid Parentheses | [LeetCode 20](https://leetcode.com/problems/valid-parentheses/) |
+| [X] | 20 | Valid Parentheses | [LeetCode 20](https://leetcode.com/problems/valid-parentheses/) |
 | [ ] | 155 | Min Stack | [LeetCode 155](https://leetcode.com/problems/min-stack/) |
 | [ ] | 150 | Evaluate Reverse Polish Notation | [LeetCode 150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
 | [ ] | 22 | Generate Parentheses | [LeetCode 22](https://leetcode.com/problems/generate-parentheses/) |

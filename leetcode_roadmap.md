@@ -46,7 +46,7 @@
 
 | Решено | № | Название | Ссылка |
 |--------|---|----------|--------|
-| [ ] | 704 | Binary Search | [LeetCode 704](https://leetcode.com/problems/binary-search/) |
+| [X] | 704 | Binary Search | [LeetCode 704](https://leetcode.com/problems/binary-search/) |
 | [ ] | 74 | Search a 2D Matrix | [LeetCode 74](https://leetcode.com/problems/search-a-2d-matrix/) |
 | [ ] | 875 | Koko Eating Bananas | [LeetCode 875](https://leetcode.com/problems/koko-eating-bananas/) |
 | [ ] | 33 | Search in Rotated Sorted Array | [LeetCode 33](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
